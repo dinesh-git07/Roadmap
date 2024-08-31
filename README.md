@@ -51,7 +51,6 @@
 - HTML, CSS, JavaScript
 - Frameworks: React, Angular, Vue.js
 - State management: Redux, Vuex
-- CSS preprocessors: Sass, Less
 
 ### Back-end Technologies
 - Languages: Java, Python, Node.js, Ruby
@@ -61,7 +60,6 @@
 ### Databases
 - Relational: MySQL, PostgreSQL
 - NoSQL: MongoDB, Cassandra
-- Caching: Redis, Memcached
 
 ### DevOps Tools
 - Version Control: Git
@@ -90,7 +88,8 @@
 ### Continuous Learning
 - Keeping up with new technologies
 - Improving soft skills
-- Exploring specializations within full stack development
+- Exploring specializations within full-stack development
+- Make sure to continuously learn and practice to enhance your knowledge of full stack development.
 
 
 ## 6. Conclusion and Q&A
@@ -98,7 +97,7 @@
 ### Key Takeaways
 - Full stack development as a versatile and in-demand career path
 - Importance of continuous learning and adaptability
-- Value of Spring Boot in modern full stack development
+- Value of Spring Boot in modern full-stack development
 
 ### Q&A Session
 - Address audience questions
